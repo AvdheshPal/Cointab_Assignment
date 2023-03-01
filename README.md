@@ -6,4 +6,9 @@ The Assignment is devided into two part
 
 ## How to start -
 
-After cloning the repo, go the particular folder and run this commond ```npm install```(installing the packege) and after that run ```npm start``` commond to start the the app.
+ ### 1. Frontend -:
+ After cloning the repo, go to the ```frontend``` folder and run this commond ```npm install```(installing the packege) and after that run ```npm start``` commond to start the the app.
+ ### 2. Backend -:
+ After cloning the repo, go to the ```backend``` folder and run this commond ```npm install```(installing the packege) and after that run ```npm start``` commond to start the the server.
+ 
+ ### Note -: Please start backend server before starting the frontend app.
